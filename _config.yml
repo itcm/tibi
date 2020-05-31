@@ -157,6 +157,6 @@ sitemap:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://ptregorou8af:${CodingToken}@e.coding.net/rrtcm/tibi/tibi.git
+  repo: https://e.coding.net/rrtcm/tibi/tibi.git
   branch: master
   message: hexo deploy
