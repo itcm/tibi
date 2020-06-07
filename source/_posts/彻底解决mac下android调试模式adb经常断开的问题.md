@@ -4,6 +4,7 @@ categories:
   - 码农搬砖
 tags:
   - android调试模式 adb经常断开 Mac系统
+date: 2019-09-15 10:00:01
 ---
 ## 首先建议更新下adb版本及系统版本
 adb --version  可以查看当前adb版本
