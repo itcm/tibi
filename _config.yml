@@ -85,7 +85,7 @@ theme_config:
     # Specify the date when the site was setup. If not defined, current year will be used.
     since: 2019
     # If not defined, `author` from Hexo `_config.yml` will be used.
-    copyright: tibi.vip<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>(adsbygoogle = window.adsbygoogle || []).push({google_ad_client:"ca-pub-1724510281321048",enable_page_level_ads:true});</script>
+    copyright: tibi.vip<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><script>(adsbygoogle = window.adsbygoogle || []).push({google_ad_client:"ca-pub-1724510281321048",enable_page_level_ads:true});</script>
 
     powered:
       # Hexo link (Powered by Hexo).
